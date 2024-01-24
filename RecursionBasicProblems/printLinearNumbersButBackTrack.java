@@ -1,4 +1,4 @@
-package RecursionBasics.RecursionBasicProblems;
+package RecursionBasicProblems;
 
 public class printLinearNumbersButBackTrack {
     public static void print(int i, int N){

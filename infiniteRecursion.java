@@ -1,4 +1,3 @@
-package RecursionBasics;
 public class infiniteRecursion {
     public static void f(){
         System.out.println("foo");

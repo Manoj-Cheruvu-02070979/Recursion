@@ -1,4 +1,4 @@
-package RecursionBasics.RecursionBasicProblems;
+package RecursionBasicProblems;
 public class printNameNTimes {
     public static void print(int i, int N){
         if(i > N){
